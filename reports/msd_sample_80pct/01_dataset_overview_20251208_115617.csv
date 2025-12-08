@@ -1,0 +1,13 @@
+﻿Metric,Value
+Total Interactions,38603293.0
+Total Users,1019310.0
+Total Songs,310725.0
+Total Artists,306658.0
+Total Genres,10.0
+Average Plays per User,37.87
+Average Plays per Song,124.24
+Median Plays per User,58.0
+Median Plays per Song,42.0
+Max Plays (Single User-Song),9667.0
+Sparsity (%),99.9878
+Data Density (%),0.0122

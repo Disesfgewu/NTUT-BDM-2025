@@ -1,6 +1,10 @@
 # Ignore all data files
 data/
 
+# Large result files
+*.zip
+music_recommendation_results.zip
+
 # Python
 __pycache__/
 *.py[cod]
