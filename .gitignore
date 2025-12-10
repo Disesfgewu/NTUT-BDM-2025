@@ -1,27 +1,60 @@
-# Ignore all data files
-data/
-
-# Large result files
-*.zip
-music_recommendation_results.zip
-
 # Python
 __pycache__/
 *.py[cod]
 *$py.class
 *.so
 .Python
-env/
-venv/
-.venv/
+*.egg-info/
+dist/
+build/
+*.egg
 
 # Jupyter Notebook
 .ipynb_checkpoints
+*.ipynb_checkpoints
+
+# Virtual Environment
+venv/
+env/
+ENV/
+.venv
 
 # IDE
 .vscode/
 .idea/
+*.swp
+*.swo
+*~
+
+# Data Files - Million Song Dataset
+data/
+*.h5
+*.hdf5
+*.db
+*.sqlite
+*.csv
+
+# Large Archive Files
+archive/
+*.zip
+*.tar.gz
+*.rar
+
+# Output Files
+outputs/
+visualizations/
+reports/
+
+# Notebook outputs (keep source, ignore outputs)
+notebook/notebook/outputs/
+notebook/notebook/.ipynb_checkpoints/
 
 # OS
 .DS_Store
 Thumbs.db
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+~$*
