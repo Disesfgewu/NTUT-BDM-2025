@@ -1,8 +1,8 @@
-# Music Recommendation System - Comprehensive Project Report
+# Music Recommendation System 
 
 **專案名稱**: Million Song Dataset 音樂推薦系統  
-**作者**: [Your Name]  
-**日期**: 2025年12月9日  
+**作者**: 電資四 111820006 陳羿錦、資工四 111820009 陳世昂 
+**日期**: 2025年12月29日  
 **資料集**: Million Song Subset (10,000 songs)  
 
 ---
